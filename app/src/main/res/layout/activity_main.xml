@@ -16,6 +16,6 @@
         android:text="Enter card number"
         android:id="@+id/textView"
         android:layout_alignParentTop="true"
-        android:layout_alignParentStart="true"
-        android:backgroundTint="#ffffff" />
+        android:layout_alignParentStart="false"
+        android:layout_alignParentBottom="true" />
 </RelativeLayout>

@@ -1,5 +1,3 @@
 <resources>
     <string name="app_name">Creditcardapp</string>
-    <string name="final_card_balance">Final card balance</string>
-    <string name="clear">CLEAR</string>
 </resources>
